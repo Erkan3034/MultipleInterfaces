@@ -1,0 +1,7 @@
+C:\Users\ERKAN TURGUT\OneDrive\Masaüstü\BTK AKADEMİ C# NOTES\InterfacesDemo\InterfacesDemo\bin\Debug\InterfacesDemo.exe.config
+C:\Users\ERKAN TURGUT\OneDrive\Masaüstü\BTK AKADEMİ C# NOTES\InterfacesDemo\InterfacesDemo\bin\Debug\InterfacesDemo.exe
+C:\Users\ERKAN TURGUT\OneDrive\Masaüstü\BTK AKADEMİ C# NOTES\InterfacesDemo\InterfacesDemo\bin\Debug\InterfacesDemo.pdb
+C:\Users\ERKAN TURGUT\OneDrive\Masaüstü\BTK AKADEMİ C# NOTES\InterfacesDemo\InterfacesDemo\obj\Debug\InterfacesDemo.csproj.AssemblyReference.cache
+C:\Users\ERKAN TURGUT\OneDrive\Masaüstü\BTK AKADEMİ C# NOTES\InterfacesDemo\InterfacesDemo\obj\Debug\InterfacesDemo.csproj.CoreCompileInputs.cache
+C:\Users\ERKAN TURGUT\OneDrive\Masaüstü\BTK AKADEMİ C# NOTES\InterfacesDemo\InterfacesDemo\obj\Debug\InterfacesDemo.exe
+C:\Users\ERKAN TURGUT\OneDrive\Masaüstü\BTK AKADEMİ C# NOTES\InterfacesDemo\InterfacesDemo\obj\Debug\InterfacesDemo.pdb
