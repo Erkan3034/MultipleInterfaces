@@ -28,7 +28,7 @@ namespace InterfacesDemo
 
             Console.WriteLine();
 
-            //IEat çalıştırılması:
+            //IEat çalıştırılması 
             IEat[] eats = new IEat[2]
             {
                 new Manager(),
